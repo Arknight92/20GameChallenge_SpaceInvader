@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Level/Lvl_SpaceInvader.umap",
+				"F:/Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/Player/BP_SpaceInvaderPlayer.uasset",
 				"F:/Projects/20GameChallenge_SpaceInvaders/SpaceInvaders/Content/Level/Lvl_SpaceInvader.umap",
 				"F:/Projects/20GameChallenge_SpaceInvaders/SpaceInvaders/Content/Assets/SpaceInvaders.uasset",
 				"F:/Projects/20GameChallenge_SpaceInvaders/SpaceInvaders/Content/Assets/SpaceInvaders_Borders.uasset",
