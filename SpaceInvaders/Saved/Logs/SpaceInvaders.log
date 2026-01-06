@@ -12749,3 +12749,365 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.06-20.10.26:830][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.06-20.10.26:830][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.06-20.10.26:830][508]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-20.13.35:454][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25912.593750
+[2026.01.06-20.13.35:645][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-20.13.35:645][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25912.771484, Update Interval: 339.703979
+[2026.01.06-20.14.09:035][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.01.06-20.14.09:600][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-20.14.09:646][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_SpaceInvaderPlayer] ([2] browsable assets)...
+[2026.01.06-20.14.09:646][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_SpaceInvaderPlayer]
+[2026.01.06-20.14.09:700][894]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_SpaceInvaderPlayer
+[2026.01.06-20.14.09:700][894]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderPlayerA0FF67B14DD0D9305CBD9FA6A5FF873E.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/Player/BP_SpaceInvaderPlayer.uasset'
+[2026.01.06-20.14.09:714][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.548 ms (total: 14.2 sec)
+[2026.01.06-20.14.09:759][894]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-20.14.09:759][894]LogContentValidation: Enabled validators:
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-20.14.09:759][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-20.14.09:759][894]AssetCheck: /Game/Blueprints/Player/BP_SpaceInvaderPlayer Validating asset
+[2026.01.06-20.14.18:437][785]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.06-20.14.18:446][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.06-20.14.18:483][785]LogPlayLevel: Display: Creating online subsystem for client :Context_97
+[2026.01.06-20.14.18:486][785]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2026.01.06-20.14.18:502][786]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.14.18:504][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002123s)
+[2026.01.06-20.14.18:504][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Lvl_SpaceInvader.Lvl_SpaceInvader to /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader (0.002165s)
+[2026.01.06-20.14.18:534][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.01.06-20.14.18:539][786]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SpaceInvader
+[2026.01.06-20.14.18:541][786]LogPlayLevel: PIE: World Init took: (0.001891s)
+[2026.01.06-20.14.18:542][786]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.06-20.14.18:542][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.06-20.14.18:542][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.06-20.14.18:542][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.06-20.14.18:542][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.06-20.14.18:542][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.06-20.14.18:544][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.06-20.14.18:583][786]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2026.01.06-20.14.18:583][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.06-20.14.18:583][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.06-20.14.18:583][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.06-20.14.18:584][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2026.01.06-20.14.18:584][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2026.01.06-20.14.18:586][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2026.01.06-20.14.18:586][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2026.01.06-20.14.18:587][786]LogInit: FAudioDevice initialized with ID 83.
+[2026.01.06-20.14.18:587][786]LogAudio: Display: Audio Device (ID: 83) registered with world 'Lvl_SpaceInvader'.
+[2026.01.06-20.14.18:587][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2026.01.06-20.14.18:591][786]LogLoad: Game class is 'BP_SpaceInvaderGM_C'
+[2026.01.06-20.14.18:592][786]LogWorld: Bringing World /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader up for play (max tick rate 0) at 2026.01.06-21.14.18
+[2026.01.06-20.14.18:592][786]LogWorld: Bringing up level for play took: 0.000695
+[2026.01.06-20.14.18:594][786]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.06-20.14.18:600][786]PIE: Server logged in
+[2026.01.06-20.14.18:602][786]PIE: Play in editor total start time 0,156 seconds.
+[2026.01.06-20.14.21:811][ 94]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.14.21:812][ 94]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.14.21:812][ 94]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add2
+[2026.01.06-20.14.21:812][ 94]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-20.14.25:508][459]LogBlueprintUserMessages: [BP_Ennemy_C_2] MoveRight = trueannd move down is false
+[2026.01.06-20.14.25:508][459]LogBlueprintUserMessages: [BP_Ennemy_C_5] MoveRight = falseannd move down is true
+[2026.01.06-20.14.27:424][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.14.27:424][641]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.14.27:424][641]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.14.27:425][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.14.27:437][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.06-20.14.27:443][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.14.27:475][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-20.14.27:475][641]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2026.01.06-20.14.27:476][641]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=4
+[2026.01.06-20.14.27:478][641]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83, StreamState=2
+[2026.01.06-20.14.27:483][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.14.27:486][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.01.06-20.14.27:532][642]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2026.01.06-20.14.43:360][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.06-20.14.43:921][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-20.14.43:959][ 71]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Ennemies/BP_Ennemy] ([2] browsable assets)...
+[2026.01.06-20.14.43:960][ 71]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Ennemies/BP_Ennemy]
+[2026.01.06-20.14.43:999][ 71]LogSavePackage: Moving output files for package: /Game/Blueprints/Ennemies/BP_Ennemy
+[2026.01.06-20.14.44:000][ 71]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_EnnemyE0D2CA3B4963D8F47331018D72DBCF7B.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/Ennemies/BP_Ennemy.uasset'
+[2026.01.06-20.14.44:014][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.481 ms (total: 14.3 sec)
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: Enabled validators:
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-20.14.44:051][ 71]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-20.14.44:051][ 71]AssetCheck: /Game/Blueprints/Ennemies/BP_Ennemy Validating asset
+[2026.01.06-20.16.53:989][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.01.06-20.16.55:384][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-20.16.55:431][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-20.16.55:431][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-20.16.55:511][511]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-20.16.55:511][511]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGMACC38A2A4040EDE3531190B8AB34263C.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-20.16.55:526][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.901 ms (total: 14.4 sec)
+[2026.01.06-20.16.55:563][511]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-20.16.55:563][511]LogContentValidation: Enabled validators:
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-20.16.55:563][511]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-20.16.55:563][511]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-20.16.57:574][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.06-20.16.57:582][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.06-20.16.57:603][679]LogPlayLevel: Display: Creating online subsystem for client :Context_98
+[2026.01.06-20.16.57:607][679]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2026.01.06-20.16.57:623][680]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.16.57:625][680]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002460s)
+[2026.01.06-20.16.57:625][680]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Lvl_SpaceInvader.Lvl_SpaceInvader to /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader (0.002515s)
+[2026.01.06-20.16.57:656][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.06-20.16.57:664][680]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SpaceInvader
+[2026.01.06-20.16.57:666][680]LogPlayLevel: PIE: World Init took: (0.002015s)
+[2026.01.06-20.16.57:667][680]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.06-20.16.57:667][680]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.06-20.16.57:667][680]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.06-20.16.57:667][680]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.06-20.16.57:667][680]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.06-20.16.57:667][680]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.06-20.16.57:669][680]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.06-20.16.57:705][680]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2026.01.06-20.16.57:705][680]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.06-20.16.57:705][680]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.06-20.16.57:705][680]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.06-20.16.57:705][680]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2026.01.06-20.16.57:705][680]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2026.01.06-20.16.57:709][680]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2026.01.06-20.16.57:709][680]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2026.01.06-20.16.57:709][680]LogInit: FAudioDevice initialized with ID 84.
+[2026.01.06-20.16.57:709][680]LogAudio: Display: Audio Device (ID: 84) registered with world 'Lvl_SpaceInvader'.
+[2026.01.06-20.16.57:709][680]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2026.01.06-20.16.57:713][680]LogLoad: Game class is 'BP_SpaceInvaderGM_C'
+[2026.01.06-20.16.57:714][680]LogWorld: Bringing World /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader up for play (max tick rate 0) at 2026.01.06-21.16.57
+[2026.01.06-20.16.57:714][680]LogWorld: Bringing up level for play took: 0.000731
+[2026.01.06-20.16.57:716][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.06-20.16.57:722][680]PIE: Server logged in
+[2026.01.06-20.16.57:725][680]PIE: Play in editor total start time 0,143 seconds.
+[2026.01.06-20.17.02:875][179]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.17.02:875][179]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.17.07:000][583]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.17.07:000][583]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.17.07:000][583]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.17.07:000][583]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.17.12:631][128]LogBlueprintUserMessages: [BP_SpecialEnnemy_C_0] Hello
+[2026.01.06-20.17.24:584][268]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.17.24:584][268]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.17.24:584][268]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 6 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-20.17.24:584][268]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-20.17.27:629][558]LogBlueprintUserMessages: [BP_SpecialEnnemy_C_1] Hello
+[2026.01.06-20.17.32:634][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.17.32:634][ 27]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.17.32:634][ 27]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.17.32:635][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.17.32:639][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.06-20.17.32:645][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.17.32:672][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-20.17.32:673][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2026.01.06-20.17.32:673][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=4
+[2026.01.06-20.17.32:675][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=2
+[2026.01.06-20.17.32:680][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.17.32:684][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.06-20.17.32:727][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2026.01.06-20.17.57:175][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.06-20.18.04:186][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.06-20.18.04:977][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-20.18.05:024][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Ennemies/BP_SpecialEnnemy] ([2] browsable assets)...
+[2026.01.06-20.18.05:024][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Ennemies/BP_SpecialEnnemy]
+[2026.01.06-20.18.05:043][846]LogSavePackage: Moving output files for package: /Game/Blueprints/Ennemies/BP_SpecialEnnemy
+[2026.01.06-20.18.05:043][846]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpecialEnnemy34EDB6E2494A2A5FEDC6E5A8C8ED9B8E.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/Ennemies/BP_SpecialEnnemy.uasset'
+[2026.01.06-20.18.05:059][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.627 ms (total: 14.5 sec)
+[2026.01.06-20.18.05:100][846]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-20.18.05:100][846]LogContentValidation: Enabled validators:
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-20.18.05:100][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-20.18.05:100][846]AssetCheck: /Game/Blueprints/Ennemies/BP_SpecialEnnemy Validating asset
+[2026.01.06-20.18.06:625][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.06-20.18.06:633][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.06-20.18.06:663][994]LogPlayLevel: Display: Creating online subsystem for client :Context_99
+[2026.01.06-20.18.06:665][994]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2026.01.06-20.18.06:681][995]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.18.06:684][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002565s)
+[2026.01.06-20.18.06:684][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Lvl_SpaceInvader.Lvl_SpaceInvader to /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader (0.002606s)
+[2026.01.06-20.18.06:713][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.01.06-20.18.06:718][995]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SpaceInvader
+[2026.01.06-20.18.06:720][995]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2026.01.06-20.18.06:720][995]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2026.01.06-20.18.06:720][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.06-20.18.06:720][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.06-20.18.06:721][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.06-20.18.06:721][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.06-20.18.06:721][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.06-20.18.06:721][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.06-20.18.06:721][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.06-20.18.06:721][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.06-20.18.06:721][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.06-20.18.06:721][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.06-20.18.06:721][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.06-20.18.06:723][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.06-20.18.06:759][995]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2026.01.06-20.18.06:759][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.06-20.18.06:759][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.06-20.18.06:759][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.06-20.18.06:759][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2026.01.06-20.18.06:759][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2026.01.06-20.18.06:762][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2026.01.06-20.18.06:762][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2026.01.06-20.18.06:762][995]LogInit: FAudioDevice initialized with ID 85.
+[2026.01.06-20.18.06:762][995]LogAudio: Display: Audio Device (ID: 85) registered with world 'Lvl_SpaceInvader'.
+[2026.01.06-20.18.06:762][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2026.01.06-20.18.06:767][995]LogLoad: Game class is 'BP_SpaceInvaderGM_C'
+[2026.01.06-20.18.06:767][995]LogWorld: Bringing World /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader up for play (max tick rate 0) at 2026.01.06-21.18.06
+[2026.01.06-20.18.06:768][995]LogWorld: Bringing up level for play took: 0.000674
+[2026.01.06-20.18.06:769][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.06-20.18.06:775][995]PIE: Server logged in
+[2026.01.06-20.18.06:778][995]PIE: Play in editor total start time 0,144 seconds.
+[2026.01.06-20.18.21:689][447]LogBlueprintUserMessages: [BP_SpecialEnnemy_C_0] Hello
+[2026.01.06-20.18.27:853][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.18.27:853][ 39]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-20.18.27:853][ 39]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.27:854][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.27:858][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.06-20.18.27:864][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.27:892][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-20.18.27:893][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2026.01.06-20.18.27:893][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=4
+[2026.01.06-20.18.27:895][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=2
+[2026.01.06-20.18.27:900][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-20.18.27:903][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.06-20.18.27:947][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2026.01.06-20.18.30:065][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.06-20.18.32:146][248]LogSlate: Window 'Save Content' being destroyed
+[2026.01.06-20.18.32:162][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-20.18.32:197][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/SplitSprites/SpecialEnnemy] ([1] browsable assets)...
+[2026.01.06-20.18.32:197][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SplitSprites/SpecialEnnemy]
+[2026.01.06-20.18.32:210][248]LogSavePackage: Moving output files for package: /Game/Assets/SplitSprites/SpecialEnnemy
+[2026.01.06-20.18.32:211][248]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/SpecialEnnemy3F3575AC42F4F69C972B2CA6914696BB.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Assets/SplitSprites/SpecialEnnemy.uasset'
+[2026.01.06-20.18.32:215][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/SplitSprites/SpecialEnnemy_Sprite] ([1] browsable assets)...
+[2026.01.06-20.18.32:216][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SplitSprites/SpecialEnnemy_Sprite]
+[2026.01.06-20.18.32:225][248]LogSavePackage: Moving output files for package: /Game/Assets/SplitSprites/SpecialEnnemy_Sprite
+[2026.01.06-20.18.32:225][248]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/SpecialEnnemy_SpriteE8E1B5DE43E1F29CBF93888D3B8AB6A1.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Assets/SplitSprites/SpecialEnnemy_Sprite.uasset'
+[2026.01.06-20.18.32:244][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.848 ms (total: 14.6 sec)
+[2026.01.06-20.18.32:325][248]LogStall: Shutdown...
+[2026.01.06-20.18.32:325][248]LogStall: Shutdown complete.
+[2026.01.06-20.18.32:409][248]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.32:409][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.32:636][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.06-20.18.32:636][248]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.32:636][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.32:765][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.06-20.18.32:765][248]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.32:765][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.32:969][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.06-20.18.32:969][248]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.32:969][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.33:176][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.06-20.18.33:176][248]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.33:176][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.33:352][248]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.01.06-20.18.33:352][248]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.33:352][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.33:504][248]LogSlate: Window 'SpaceInvaders - Unreal Editor' being destroyed
+[2026.01.06-20.18.34:508][248]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.06-20.18.34:509][248]LogContentValidation: Enabled validators:
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-20.18.34:510][248]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-20.18.34:510][248]AssetCheck: /Game/Assets/SplitSprites/SpecialEnnemy Validating asset
+[2026.01.06-20.18.34:510][248]AssetCheck: /Game/Assets/SplitSprites/SpecialEnnemy_Sprite Validating asset
+[2026.01.06-20.18.34:613][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.06-20.18.34:651][248]Cmd: QUIT_EDITOR
+[2026.01.06-20.18.34:651][248]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.06-20.18.34:652][248]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.06-20.18.34:659][249]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.06-20.18.34:660][249]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.06-20.18.34:660][249]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.06-20.18.34:660][249]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.34:660][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.34:680][249]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.06-20.18.34:680][249]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.06-20.18.34:681][249]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.06-20.18.34:707][249]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-20.18.34:707][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-20.18.34:712][249]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.06-20.18.34:712][249]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.06-20.18.34:728][249]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.06-20.18.35:529][249]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.06-20.18.35:529][249]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.06-20.18.35:529][249]LogAudio: Display: Audio Device unregistered from world 'Lvl_SpaceInvader'.
+[2026.01.06-20.18.35:529][249]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.06-20.18.35:529][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.06-20.18.35:533][249]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.06-20.18.35:546][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.06-20.18.35:546][249]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.06-20.18.35:549][249]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.01.06-20.18.35:557][249]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.06-20.18.35:560][249]LogExit: Preparing to exit.
+[2026.01.06-20.18.35:607][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.06-20.18.35:612][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:612][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.35:613][249]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.06-20.18.36:019][249]LogEditorDataStorage: Deinitializing
+[2026.01.06-20.18.36:157][249]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.06-20.18.36:266][249]LogExit: Editor shut down
+[2026.01.06-20.18.36:275][249]LogExit: Transaction tracking system shut down
+[2026.01.06-20.18.36:631][249]LogExit: Object subsystem successfully closed.
+[2026.01.06-20.18.36:653][249]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.06-20.18.36:763][249]LogMemoryProfiler: Shutdown
+[2026.01.06-20.18.36:764][249]LogNetworkingProfiler: Shutdown
+[2026.01.06-20.18.36:764][249]LoadingProfiler: Shutdown
+[2026.01.06-20.18.36:764][249]LogTimingProfiler: Shutdown
+[2026.01.06-20.18.36:764][249]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.06-20.18.36:765][249]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.06-20.18.37:214][249]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.06-20.18.37:214][249]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.06-20.18.37:214][249]RenderDocPlugin: plugin has been unloaded.
+[2026.01.06-20.18.37:248][249]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.06-20.18.37:248][249]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9F2F46EF-433D-B79A-DF47-55B67E27FB98%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=770f4f434115d11f362b26bcf20e5463%7Ca36ff9910eb54bfaa979529f7959bf0e%7Cd5b7d8a6-8a81-439b-bdf7-557864dadc9e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.06-20.18.37:800][249]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.06-20.18.37:814][249]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.06-20.18.37:814][249]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.06-20.18.37:814][249]LogPakFile: Destroying PakPlatformFile
+[2026.01.06-20.18.38:061][249]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.06-20.18.38:092][249]LogExit: Exiting.
+[2026.01.06-20.18.38:147][249]Log file closed, 01/06/26 21:18:38
