@@ -6118,3 +6118,730 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.06-15.59.39:386][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
 [2026.01.06-15.59.39:394][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
 [2026.01.06-15.59.39:486][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.01.06-16.01.02:995][859]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10794.634766
+[2026.01.06-16.01.03:996][862]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.01.03:996][862]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10795.300781, Update Interval: 346.581635
+[2026.01.06-16.03.04:216][223]LogDerivedDataCache: C:/Users/dmang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.06-16.07.34:732][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11186.317383
+[2026.01.06-16.07.35:733][ 37]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.07.35:733][ 37]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11186.984375, Update Interval: 303.014008
+[2026.01.06-16.13.27:065][434]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11538.265625
+[2026.01.06-16.13.28:065][437]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.13.28:065][437]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11538.932617, Update Interval: 304.806671
+[2026.01.06-16.19.27:209][476]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11898.303711
+[2026.01.06-16.19.28:190][479]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.19.28:190][479]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11898.947266, Update Interval: 330.841400
+[2026.01.06-16.21.53:003][750]LogBlueprint: Error: [AssetLog] : [Compiler] Event Tick  cannot be placed in function graph
+[2026.01.06-16.21.53:003][750]BlueprintLog: Error: Event Tick  cannot be placed in function graph
+[2026.01.06-16.22.02:755][371]LogSlate: Window 'Message Log' being destroyed
+[2026.01.06-16.22.02:764][371]LogSlate: Window 'Message Log' being destroyed
+[2026.01.06-16.22.39:623][515]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Enemy Death
+[2026.01.06-16.22.39:695][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.06-16.23.16:490][818]LogEditorTransaction: Undo Move Node
+[2026.01.06-16.23.17:438][871]LogEditorTransaction: Undo Rename Function
+[2026.01.06-16.23.17:606][872]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2026.01.06-16.24.00:508][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.06-16.24.27:857][330]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Enemy Death
+[2026.01.06-16.24.27:925][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.06-16.25.54:585][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12286.138672
+[2026.01.06-16.25.54:761][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.25.54:761][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12286.300781, Update Interval: 338.552185
+[2026.01.06-16.30.53:506][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.01.06-16.30.53:510][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Lvl_SpaceInvader' took 0.041
+[2026.01.06-16.30.53:510][319]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.30.53:510][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.30.53:619][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto6
+[2026.01.06-16.30.53:619][319]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM_Auto64CBFF25E49EA99CAE464D6B57E5ABF35.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto6.uasset'
+[2026.01.06-16.30.53:622][319]LogFileHelpers: Auto-saving content packages took 0.113
+[2026.01.06-16.31.36:353][327]LogSlate: Took 0.008271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.01.06-16.31.46:978][207]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: The function/event 'UpdateShootingArray' does not match the necessary signature - has the delegate or function/event changed?
+[2026.01.06-16.31.47:042][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.06-16.32.07:282][320]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: The function/event 'UpdateShootingArray' does not match the necessary signature - has the delegate or function/event changed?
+[2026.01.06-16.32.07:344][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.06-16.32.24:944][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12677.019531
+[2026.01.06-16.32.25:076][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.32.25:076][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12677.143555, Update Interval: 327.237762
+[2026.01.06-16.32.30:236][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-16.32.30:280][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.32.30:280][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.32.30:353][499]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-16.32.30:353][499]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGMCE53F2B44A2F8E8003D166939F968522.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-16.32.30:366][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.877 ms (total: 5.28 sec)
+[2026.01.06-16.32.30:412][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-16.32.30:412][499]LogContentValidation: Enabled validators:
+[2026.01.06-16.32.30:412][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-16.32.30:413][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-16.32.30:413][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-16.32.30:413][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-16.32.30:413][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-16.32.30:413][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-16.32.30:413][499]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-16.32.30:901][547]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: The function/event 'UpdateShootingArray' does not match the necessary signature - has the delegate or function/event changed?
+[2026.01.06-16.32.30:965][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.06-16.32.49:902][285]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: Unable to find the selected function/event: '[None]' - has it been deleted?
+[2026.01.06-16.32.49:968][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.06-16.32.57:520][120]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Event Dispatcher pin is not connected  Bind Event to On Enemy Death
+[2026.01.06-16.32.57:585][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.06-16.34.03:310][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.01.06-16.34.46:051][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-16.34.46:095][189]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.34.46:095][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.34.46:166][189]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-16.34.46:166][189]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGMC805F4CB45EC27AE69683CBC53F1E459.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-16.34.46:178][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.517 ms (total: 5.41 sec)
+[2026.01.06-16.34.46:206][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-16.34.46:206][189]LogContentValidation: Enabled validators:
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-16.34.46:206][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-16.34.46:206][189]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-16.36.58:416][837]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] This blueprint (self) is not a BP_Ennemy_C, therefore ' Target ' must have a connection.
+[2026.01.06-16.36.58:419][837]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  : missing a function/event name.
+[2026.01.06-16.36.58:452][837]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2026.01.06-16.36.58:452][837]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: No function/event specified.
+[2026.01.06-16.36.58:518][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.01.06-16.37.16:523][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.06-16.38.13:800][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.06-16.38.14:328][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-16.38.14:361][ 96]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.38.14:361][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.38.14:433][ 96]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-16.38.14:434][ 96]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGMEAEC7DE24CF8A7169FDB41A720EC3ED5.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-16.38.14:445][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.952 ms (total: 5.53 sec)
+[2026.01.06-16.38.14:491][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: Enabled validators:
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-16.38.14:492][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-16.38.14:492][ 96]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-16.38.25:567][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.01.06-16.38.26:167][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-16.38.26:206][ 32]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.38.26:206][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.38.26:278][ 32]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-16.38.26:278][ 32]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGMEAABC23948D9D84F1CB1C1890310A629.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-16.38.26:290][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.480 ms (total: 5.65 sec)
+[2026.01.06-16.38.26:330][ 32]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-16.38.26:330][ 32]LogContentValidation: Enabled validators:
+[2026.01.06-16.38.26:330][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-16.38.26:330][ 32]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-16.38.26:330][ 32]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-16.38.26:331][ 32]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-16.38.26:331][ 32]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-16.38.26:331][ 32]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-16.38.26:331][ 32]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-16.38.42:455][104]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13055.154297
+[2026.01.06-16.38.43:453][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.38.43:453][107]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13055.818359, Update Interval: 327.102264
+[2026.01.06-16.38.48:339][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.06-16.40.56:246][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.01.06-16.40.56:250][659]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Lvl_SpaceInvader' took 0.033
+[2026.01.06-16.40.56:250][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.40.56:250][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.40.56:354][659]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto7
+[2026.01.06-16.40.56:354][659]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM_Auto75D9434564811CF2A1915B4842631C584.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto7.uasset'
+[2026.01.06-16.40.56:357][659]LogFileHelpers: Auto-saving content packages took 0.107
+[2026.01.06-16.41.44:869][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.01.06-16.41.45:781][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-16.41.45:822][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.41.45:822][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.41.45:895][939]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-16.41.45:895][939]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM8C2319184059305A7B986C9384BA6377.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-16.41.45:907][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 127.174 ms (total: 5.78 sec)
+[2026.01.06-16.41.45:949][939]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-16.41.45:949][939]LogContentValidation: Enabled validators:
+[2026.01.06-16.41.45:949][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-16.41.45:949][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-16.41.45:950][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-16.41.45:950][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-16.41.45:950][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-16.41.45:950][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-16.41.45:950][939]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-16.43.55:819][ 44]LogBlueprint: Error: [AssetLog] F:\Projects\20GameChallenge_SpaceInvaders\20GameChallenge_SpaceInvader\SpaceInvaders\Content\Blueprints\GameMode\BP_SpaceInvaderGM.uasset: [Compiler] Create Event  Signature Error: The function/event 'BP_SpaceInvaderGM_AutoGenFunc1' does not match the necessary signature - has the delegate or function/event changed?
+[2026.01.06-16.43.55:888][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.01.06-16.44.48:572][670]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13420.952148
+[2026.01.06-16.44.48:722][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.44.48:722][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13421.093750, Update Interval: 353.591125
+[2026.01.06-16.50.56:606][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.06-16.50.56:609][593]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Lvl_SpaceInvader' took 0.038
+[2026.01.06-16.50.56:609][593]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-16.50.56:609][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-16.50.56:719][593]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto8
+[2026.01.06-16.50.56:719][593]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM_Auto8CAC6819A4F922E6B51FB1DA7B66E0080.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto8.uasset'
+[2026.01.06-16.50.56:721][593]LogFileHelpers: Auto-saving content packages took 0.112
+[2026.01.06-16.51.41:311][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13829.071289
+[2026.01.06-16.51.41:428][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.51.41:429][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13829.178711, Update Interval: 353.096710
+[2026.01.06-16.58.18:525][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14221.263672
+[2026.01.06-16.58.18:668][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-16.58.18:668][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14221.395508, Update Interval: 344.862213
+[2026.01.06-17.01.14:949][802]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.15:019][802]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.15:605][825]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.16:406][889]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.17:118][945]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.17:285][946]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.18:110][ 13]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.19:088][ 97]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.20:025][148]LogEditorTransaction: Undo Rename Parameter
+[2026.01.06-17.01.20:791][209]LogEditorTransaction: Undo Add In Parameter
+[2026.01.06-17.01.21:573][272]LogEditorTransaction: Undo Create matching signature
+[2026.01.06-17.01.22:397][339]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.23:084][393]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.23:925][438]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.24:720][503]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.01.25:517][568]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.26:323][634]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.27:232][711]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.34:065][383]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.34:599][397]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.01.35:135][433]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.01.36:041][508]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.01.37:492][638]LogEditorTransaction: Undo Rename Parameter
+[2026.01.06-17.01.38:081][681]LogEditorTransaction: Undo Add In Parameter
+[2026.01.06-17.01.38:374][685]LogEditorTransaction: Undo Move Nodes
+[2026.01.06-17.01.39:299][758]LogEditorTransaction: Undo Paste clipboard contents
+[2026.01.06-17.01.40:080][820]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.41:493][914]LogEditorTransaction: Undo Rename Function
+[2026.01.06-17.01.42:229][955]LogEditorTransaction: Undo Add New Function
+[2026.01.06-17.01.44:169][ 70]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.44:936][114]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.45:650][154]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.46:365][194]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.47:178][224]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.47:810][257]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.48:451][291]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.49:395][348]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.50:065][384]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.50:847][412]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.52:037][489]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.54:035][628]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.01.54:848][657]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.01.55:621][701]LogEditorTransaction: Undo Create matching signature
+[2026.01.06-17.01.56:269][735]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.56:831][762]LogEditorTransaction: Undo Change Parameter Type
+[2026.01.06-17.01.57:396][790]LogEditorTransaction: Undo Rename Parameter
+[2026.01.06-17.01.58:153][833]LogEditorTransaction: Undo Add In Parameter
+[2026.01.06-17.01.58:945][862]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.01.59:582][896]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.00:380][942]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.01:230][992]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.02.02:380][ 66]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.02.03:249][102]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.02.03:858][133]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.11:206][679]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.12:078][714]LogEditorTransaction: Undo Move Nodes
+[2026.01.06-17.02.12:746][748]LogEditorTransaction: Undo Move Nodes
+[2026.01.06-17.02.13:350][778]LogEditorTransaction: Undo Move Nodes
+[2026.01.06-17.02.14:166][823]LogEditorTransaction: Undo Create Pin Link
+[2026.01.06-17.02.15:021][870]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.15:644][886]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.16:214][913]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.16:847][945]LogEditorTransaction: Undo Move Nodes
+[2026.01.06-17.02.17:946][ 10]LogEditorTransaction: Undo Paste clipboard contents
+[2026.01.06-17.02.19:084][104]LogEditorTransaction: Undo Delete current selection
+[2026.01.06-17.02.19:865][139]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.20:441][178]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.23:770][487]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.24:629][531]LogEditorTransaction: Undo Rename Node
+[2026.01.06-17.02.25:314][582]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.25:866][620]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.26:592][675]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.27:040][703]LogEditorTransaction: Undo Rename Node
+[2026.01.06-17.02.27:899][772]LogEditorTransaction: Undo Rename Node
+[2026.01.06-17.02.28:799][819]LogEditorTransaction: Undo Create matching signature
+[2026.01.06-17.02.29:423][865]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.30:059][911]LogEditorTransaction: Undo Add Node
+[2026.01.06-17.02.30:708][959]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.31:511][ 22]LogEditorTransaction: Undo Move Node
+[2026.01.06-17.02.32:481][ 76]LogEditorTransaction: Undo Rename Function
+[2026.01.06-17.02.33:303][142]LogEditorTransaction: Undo Rename Function
+[2026.01.06-17.02.36:581][465]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2026.01.06-17.03.04:216][476]LogDerivedDataCache: C:/Users/dmang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.06-17.03.15:410][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.01.06-17.03.15:413][260]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Lvl_SpaceInvader' took 0.067
+[2026.01.06-17.03.15:414][260]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-17.03.15:414][260]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-17.03.15:485][260]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto9
+[2026.01.06-17.03.15:485][260]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM_Auto9B8F64A3E48214AB2FFB1A998808A7864.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/Autosaves/Game/Blueprints/GameMode/BP_SpaceInvaderGM_Auto9.uasset'
+[2026.01.06-17.03.15:488][260]LogFileHelpers: Auto-saving content packages took 0.074
+[2026.01.06-17.03.23:146][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.01.06-17.03.24:173][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-17.03.24:215][856]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-17.03.24:215][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-17.03.24:291][856]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-17.03.24:291][856]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM8AEA3DEE416214401E67D7A625CEEFFB.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-17.03.24:303][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.648 ms (total: 5.91 sec)
+[2026.01.06-17.03.24:339][856]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-17.03.24:339][856]LogContentValidation: Enabled validators:
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-17.03.24:339][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-17.03.24:340][856]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-17.03.26:423][994]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.06-17.03.26:434][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.06-17.03.26:459][994]LogPlayLevel: Display: Creating online subsystem for client :Context_53
+[2026.01.06-17.03.26:462][994]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.01.06-17.03.26:480][995]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-17.03.26:483][995]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002727s)
+[2026.01.06-17.03.26:483][995]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Lvl_SpaceInvader.Lvl_SpaceInvader to /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader (0.002787s)
+[2026.01.06-17.03.26:513][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.01.06-17.03.26:517][995]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SpaceInvader
+[2026.01.06-17.03.26:519][995]LogPlayLevel: PIE: World Init took: (0.002411s)
+[2026.01.06-17.03.26:520][995]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.01.06-17.03.26:520][995]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.06-17.03.26:521][995]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.06-17.03.26:521][995]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.06-17.03.26:521][995]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.06-17.03.26:521][995]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.06-17.03.26:521][995]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.06-17.03.26:523][995]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.06-17.03.26:561][995]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2026.01.06-17.03.26:562][995]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.06-17.03.26:562][995]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.06-17.03.26:562][995]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.06-17.03.26:562][995]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.01.06-17.03.26:562][995]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.01.06-17.03.26:565][995]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.01.06-17.03.26:565][995]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.01.06-17.03.26:565][995]LogInit: FAudioDevice initialized with ID 42.
+[2026.01.06-17.03.26:565][995]LogAudio: Display: Audio Device (ID: 42) registered with world 'Lvl_SpaceInvader'.
+[2026.01.06-17.03.26:565][995]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.01.06-17.03.26:578][995]LogLoad: Game class is 'BP_SpaceInvaderGM_C'
+[2026.01.06-17.03.26:578][995]LogWorld: Bringing World /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader up for play (max tick rate 0) at 2026.01.06-18.03.26
+[2026.01.06-17.03.26:579][995]LogWorld: Bringing up level for play took: 0.000864
+[2026.01.06-17.03.26:581][995]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.03.26:586][995]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_SpaceInvaderPlayer_C_0
+[2026.01.06-17.03.26:587][995]PIE: Server logged in
+[2026.01.06-17.03.26:590][995]PIE: Play in editor total start time 0,156 seconds.
+[2026.01.06-17.03.27:986][116]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.29:247][232]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.29:247][232]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.29:247][232]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.29:248][232]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile1
+[2026.01.06-17.03.29:488][254]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.29:926][294]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.30:809][375]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.30:809][375]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 10
+[2026.01.06-17.03.30:985][391]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_Ennemy_C_8] EXPLOSION ENDED
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_Ennemy_C_8] Index X = 2
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_Ennemy_C_8] Index Y = 2
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 2:2
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 9
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:2
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 8
+[2026.01.06-17.03.31:106][402]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.31:106][402]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.03.31:106][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:2
+[2026.01.06-17.03.31:107][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.03.31:107][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.03.31:107][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add2
+[2026.01.06-17.03.31:107][402]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.03.32:064][489]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.32:096][492]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.32:096][492]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.32:097][492]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile4
+[2026.01.06-17.03.32:484][527]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.03.32:709][547]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.33:450][614]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.33:904][656]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.33:982][663]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.34:378][699]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.34:476][708]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.34:476][708]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 20
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_Ennemy_C_1] EXPLOSION ENDED
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_Ennemy_C_1] Index X = 0
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_Ennemy_C_1] Index Y = 1
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 0:1
+[2026.01.06-17.03.34:768][735]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.34:768][735]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 8
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 0:1
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 7
+[2026.01.06-17.03.34:768][735]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.34:768][735]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 3
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 3
+[2026.01.06-17.03.34:768][735]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.03.35:089][764]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.35:482][800]LogBlueprintUserMessages: [BP_Ennemy_C_5] Spawn Ennemy Projectile
+[2026.01.06-17.03.35:814][830]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.36:540][896]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.36:540][896]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.36:540][896]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile8
+[2026.01.06-17.03.36:985][936]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.37:282][963]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.38:017][ 30]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.38:490][ 73]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.03.38:511][ 75]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.38:511][ 75]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 10
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_Ennemy_C_5] EXPLOSION ENDED
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_Ennemy_C_5] Index X = 1
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_Ennemy_C_5] Index Y = 2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 1:2
+[2026.01.06-17.03.38:803][101]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.38:803][101]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 7
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 6
+[2026.01.06-17.03.38:803][101]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 6 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.38:803][101]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add2
+[2026.01.06-17.03.38:803][101]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.03.39:991][208]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.40:202][227]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.40:630][266]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.40:773][279]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.40:773][279]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.40:774][279]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile12
+[2026.01.06-17.03.41:485][344]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.41:519][347]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.42:412][428]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.42:412][428]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 20
+[2026.01.06-17.03.42:568][442]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.42:568][442]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.42:568][442]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile14
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_Ennemy_C_7] EXPLOSION ENDED
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_Ennemy_C_7] Index X = 2
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_Ennemy_C_7] Index Y = 1
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 2:1
+[2026.01.06-17.03.42:701][454]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 6 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.42:701][454]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 6
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:1
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 5
+[2026.01.06-17.03.42:701][454]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 5 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.42:701][454]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:1
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add1
+[2026.01.06-17.03.42:701][454]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.03.42:988][480]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.03.43:804][553]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.44:245][593]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.44:472][613]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_BoundLimit
+[2026.01.06-17.03.44:472][613]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Block Move TRUE
+[2026.01.06-17.03.44:483][614]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.03.44:496][615]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.44:496][615]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 20
+[2026.01.06-17.03.44:609][625]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_Ennemy_C_4] EXPLOSION ENDED
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_Ennemy_C_4] Index X = 1
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_Ennemy_C_4] Index Y = 1
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 1:1
+[2026.01.06-17.03.44:795][641]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 5 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.44:795][641]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 5
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:1
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 4
+[2026.01.06-17.03.44:795][641]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 4 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.44:795][641]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:1
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.03.44:795][641]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 2
+[2026.01.06-17.03.44:992][658]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.45:762][728]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.45:982][748]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.46:524][794]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.46:658][806]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.46:658][806]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.46:659][806]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile18
+[2026.01.06-17.03.47:485][879]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.48:231][946]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.03.48:232][946]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 30
+[2026.01.06-17.03.48:527][972]LogBlueprintUserMessages: [BP_Ennemy_C_6] EXPLOSION ENDED
+[2026.01.06-17.03.48:527][972]LogBlueprintUserMessages: [BP_Ennemy_C_6] Index X = 2
+[2026.01.06-17.03.48:527][972]LogBlueprintUserMessages: [BP_Ennemy_C_6] Index Y = 0
+[2026.01.06-17.03.48:527][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 2:0
+[2026.01.06-17.03.48:527][972]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 4 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.48:527][972]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.48:527][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 4
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:0
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 3
+[2026.01.06-17.03.48:528][972]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 3 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.03.48:528][972]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 2
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:0
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 1
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 1
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add0
+[2026.01.06-17.03.48:528][972]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 2
+[2026.01.06-17.03.48:617][980]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.48:986][ 13]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.49:448][ 54]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.49:460][ 55]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.49:460][ 55]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.49:461][ 55]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile21
+[2026.01.06-17.03.50:491][147]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.03.50:650][161]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.51:216][211]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.51:544][240]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_BoundLimit
+[2026.01.06-17.03.51:544][240]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Block Move TRUE
+[2026.01.06-17.03.51:993][280]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.03.52:083][288]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.52:541][329]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.53:036][373]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.53:437][409]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.53:482][413]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.03.54:018][461]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.03.54:018][461]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.03.54:018][461]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile25
+[2026.01.06-17.03.54:987][548]LogBlueprintUserMessages: [BP_Ennemy_C_2] Spawn Ennemy Projectile
+[2026.01.06-17.03.56:017][640]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.03.56:487][682]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.03.57:029][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-17.03.57:029][727]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-17.03.57:029][727]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-17.03.57:029][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-17.03.57:035][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.06-17.03.57:041][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-17.03.57:068][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-17.03.57:068][727]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.01.06-17.03.57:068][727]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.01.06-17.03.57:071][727]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.01.06-17.03.57:076][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-17.03.57:079][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.01.06-17.03.57:158][728]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.01.06-17.04.37:377][234]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14598.848633
+[2026.01.06-17.04.38:377][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-17.04.38:377][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14599.515625, Update Interval: 327.783447
+[2026.01.06-17.10.34:404][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.01.06-17.10.35:307][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.06-17.10.35:342][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM] ([2] browsable assets)...
+[2026.01.06-17.10.35:343][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode/BP_SpaceInvaderGM]
+[2026.01.06-17.10.35:414][608]LogSavePackage: Moving output files for package: /Game/Blueprints/GameMode/BP_SpaceInvaderGM
+[2026.01.06-17.10.35:414][608]LogSavePackage: Moving '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Saved/BP_SpaceInvaderGM5A00F053457B1051D2C8CFA2BDE3FC2F.tmp' to '../../../../../Projects/20GameChallenge_SpaceInvaders/20GameChallenge_SpaceInvader/SpaceInvaders/Content/Blueprints/GameMode/BP_SpaceInvaderGM.uasset'
+[2026.01.06-17.10.35:426][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.270 ms (total: 6.03 sec)
+[2026.01.06-17.10.35:465][608]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.06-17.10.35:465][608]LogContentValidation: Enabled validators:
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.06-17.10.35:465][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.06-17.10.35:465][608]AssetCheck: /Game/Blueprints/GameMode/BP_SpaceInvaderGM Validating asset
+[2026.01.06-17.10.37:805][814]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.06-17.10.37:814][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.06-17.10.37:838][814]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2026.01.06-17.10.37:842][814]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.01.06-17.10.37:860][815]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-17.10.37:862][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002166s)
+[2026.01.06-17.10.37:862][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Lvl_SpaceInvader.Lvl_SpaceInvader to /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader (0.002210s)
+[2026.01.06-17.10.37:891][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.06-17.10.37:897][815]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_SpaceInvader
+[2026.01.06-17.10.37:899][815]LogPlayLevel: PIE: World Init took: (0.002129s)
+[2026.01.06-17.10.37:900][815]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.06-17.10.37:900][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.06-17.10.37:900][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.06-17.10.37:900][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.06-17.10.37:900][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.06-17.10.37:900][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.06-17.10.37:903][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.06-17.10.37:943][815]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek High Definition Audio)
+[2026.01.06-17.10.37:943][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.06-17.10.37:943][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.06-17.10.37:943][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.06-17.10.37:944][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.01.06-17.10.37:944][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.01.06-17.10.37:946][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.01.06-17.10.37:946][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.01.06-17.10.37:946][815]LogInit: FAudioDevice initialized with ID 43.
+[2026.01.06-17.10.37:946][815]LogAudio: Display: Audio Device (ID: 43) registered with world 'Lvl_SpaceInvader'.
+[2026.01.06-17.10.37:946][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.06-17.10.37:950][815]LogLoad: Game class is 'BP_SpaceInvaderGM_C'
+[2026.01.06-17.10.37:951][815]LogWorld: Bringing World /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader up for play (max tick rate 0) at 2026.01.06-18.10.37
+[2026.01.06-17.10.37:951][815]LogWorld: Bringing up level for play took: 0.000702
+[2026.01.06-17.10.37:952][815]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] X=880.000 Y=548.000
+[2026.01.06-17.10.37:958][815]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_SpaceInvaderPlayer_C_0
+[2026.01.06-17.10.37:959][815]PIE: Server logged in
+[2026.01.06-17.10.37:961][815]PIE: Play in editor total start time 0,148 seconds.
+[2026.01.06-17.10.39:366][937]LogBlueprintUserMessages: [BP_Ennemy_C_8] Spawn Ennemy Projectile
+[2026.01.06-17.10.40:204][ 14]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.40:304][ 23]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.40:304][ 23]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.10.40:305][ 23]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile1
+[2026.01.06-17.10.40:783][ 67]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.40:869][ 75]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.41:600][142]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.42:362][212]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.42:940][265]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.43:199][289]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.43:871][351]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.10.43:992][362]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.44:444][403]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.44:444][403]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.10.44:444][403]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile5
+[2026.01.06-17.10.45:072][460]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.45:369][486]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.46:011][544]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.10.46:011][544]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 10
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_Ennemy_C_8] EXPLOSION ENDED
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_Ennemy_C_8] Index X = 2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_Ennemy_C_8] Index Y = 2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 2:2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 9
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 8
+[2026.01.06-17.10.46:305][571]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.46:305][571]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add2
+[2026.01.06-17.10.46:305][571]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.10.46:871][622]LogBlueprintUserMessages: [BP_Ennemy_C_5] Spawn Ennemy Projectile
+[2026.01.06-17.10.47:176][649]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.47:600][687]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.47:930][717]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.47:931][717]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.10.47:931][717]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile8
+[2026.01.06-17.10.48:363][756]LogBlueprintUserMessages: [BP_Ennemy_C_5] Spawn Ennemy Projectile
+[2026.01.06-17.10.48:961][810]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.49:866][892]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.49:900][895]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.10.49:900][895]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 20
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_Ennemy_C_5] EXPLOSION ENDED
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_Ennemy_C_5] Index X = 1
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_Ennemy_C_5] Index Y = 2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 1:2
+[2026.01.06-17.10.50:196][922]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 8 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.50:196][922]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 8
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 7
+[2026.01.06-17.10.50:196][922]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.50:196][922]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 1:2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add2
+[2026.01.06-17.10.50:196][922]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.10.51:322][ 18]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.51:362][ 21]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.10.52:332][107]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.52:466][119]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.52:466][119]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.10.52:467][119]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile12
+[2026.01.06-17.10.52:868][155]LogBlueprintUserMessages: [BP_Ennemy_C_6] Spawn Ennemy Projectile
+[2026.01.06-17.10.53:114][177]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.54:039][258]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.10.54:039][258]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 10
+[2026.01.06-17.10.54:129][266]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_BoundLimit
+[2026.01.06-17.10.54:129][266]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Block Move TRUE
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_Ennemy_C_6] EXPLOSION ENDED
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_Ennemy_C_6] Index X = 2
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_Ennemy_C_6] Index Y = 0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 2:0
+[2026.01.06-17.10.54:329][284]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 7 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.54:329][284]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 7
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 6
+[2026.01.06-17.10.54:329][284]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 6 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.54:329][284]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 2:0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Index to add0
+[2026.01.06-17.10.54:329][284]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 3
+[2026.01.06-17.10.54:363][287]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.10.54:431][293]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.55:462][384]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.55:872][420]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.56:667][489]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.56:743][496]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Shoot pressed
+[2026.01.06-17.10.56:743][496]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Spawn Projectile
+[2026.01.06-17.10.56:745][496]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] BP_Projectile16
+[2026.01.06-17.10.57:370][552]LogBlueprintUserMessages: [BP_Ennemy_C_7] Spawn Ennemy Projectile
+[2026.01.06-17.10.58:089][615]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.58:866][684]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.10.59:113][706]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy Hit
+[2026.01.06-17.10.59:113][706]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Ennemy score value = 30
+[2026.01.06-17.10.59:292][722]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_Ennemy_C_2] EXPLOSION ENDED
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_Ennemy_C_2] Index X = 0
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_Ennemy_C_2] Index Y = 2
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] In Call back update Shoot Array and ennemy to destroy has index 0:2
+[2026.01.06-17.10.59:407][732]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 6 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.59:407][732]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 6
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 0:2
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 5
+[2026.01.06-17.10.59:407][732]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'EnnemyArray' of length 5 in '/Game/Blueprints/GameMode/BP_SpaceInvaderGM.BP_SpaceInvaderGM_C'!
+[2026.01.06-17.10.59:407][732]LogScript: Warning: Script Msg called by: BP_SpaceInvaderGM_C /Game/Level/UEDPIE_0_Lvl_SpaceInvader.Lvl_SpaceInvader:PersistentLevel.BP_SpaceInvaderGM_C_0
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Before Loop, array size  = 3
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Removed ennemy with indexes: 0:2
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] exiting Remove Ennmy From array 2
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Shooting Ennemies size 2
+[2026.01.06-17.10.59:407][732]LogBlueprintUserMessages: [BP_SpaceInvaderGM_C_0] Array shooting new size: 2
+[2026.01.06-17.11.00:083][790]LogBlueprintUserMessages: [BP_SpaceInvaderPlayer_C_0] Blook Move FALSE
+[2026.01.06-17.11.00:363][814]LogBlueprintUserMessages: [BP_Ennemy_C_3] Spawn Ennemy Projectile
+[2026.01.06-17.11.00:519][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-17.11.00:519][825]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_Lvl_SpaceInvader
+[2026.01.06-17.11.00:519][825]LogWorld: UWorld::CleanupWorld for Lvl_SpaceInvader, bSessionEnded=true, bCleanupResources=true
+[2026.01.06-17.11.00:519][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-17.11.00:524][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.06-17.11.00:532][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.06-17.11.00:564][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.06-17.11.00:565][825]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.01.06-17.11.00:565][825]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.01.06-17.11.00:567][825]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.01.06-17.11.00:573][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.06-17.11.00:577][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.01.06-17.11.00:661][826]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.01.06-17.11.05:446][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14987.791016
+[2026.01.06-17.11.06:438][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.06-17.11.06:438][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14988.443359, Update Interval: 327.992188
